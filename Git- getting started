@@ -1,0 +1,29 @@
+																	Git - Getting started
+																	
+- Version Control System - VCS 
+-  Software designed to record changes made to files over time
+-  ability to reverth the previous changes 
+-
+
+
+Three stages of the file 
+		- commited 
+		- modified
+		- staged 
+
+Three stages of a git project
+		- working directory 
+		- staging area [index]
+		- .get directory [repository]
+		
+
+- man git - gives the manual for git 
+
+- git help config - gives only the config file manual 
+- git help - shorter commanly used commands 
+
+- each project in the git are referenced as the repository in the git
+- git init - this commands initialize the empty git repository
+- .git folder contains all the metadata about the project
+- Code hosting providers - github , bitbucket etc
+
