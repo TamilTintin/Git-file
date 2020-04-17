@@ -27,3 +27,9 @@ Three stages of a git project
 - .git folder contains all the metadata about the project
 - Code hosting providers - github , bitbucket etc
 
+1. git add 
+2. git commit -m "first commit "
+3. git remote origin https://github.com/TamilTintin/Git-file.git
+4. git push -u origin  master 
+
+- git status 
