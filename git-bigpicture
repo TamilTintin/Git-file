@@ -1,0 +1,30 @@
+s										Git - Big picture 
+
+
+
+- Git is the open source distributed version control system 
+- Tracks the changes to the source code 
+- Manage multiple version of the project
+-share code amongst the developers 
+- snapshot
+- Git generates a hexadecimal code for each commit 
+
+Basic Git cli commands 
+	
+	- git init
+	- git add
+	- git commit    - creates a snapshot in the local repository 
+	- git log
+	- git diff 		- difference between the commits 
+	- git checkout/switch - rollback the commit /or to switch with branch 
+	- git branch 
+	- git merge 
+	- fork - to get a copy of the repository
+	
+	
+- free version and premium version of app - branching 
+- Merging - counter part of branching 
+- Before git , people uses the client- server version control [sub version]
+- shallow clone -  allows only the limited history of the project 
+- Git based services - github ,gitlab,bitbucket
+- user - local commit - forked one - then to the main one ->open source flow 
