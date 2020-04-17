@@ -32,4 +32,7 @@ Three stages of a git project
 3. git remote origin https://github.com/TamilTintin/Git-file.git
 4. git push -u origin  master 
 
-- git status 
+- git status - to get the status of the current branch and commit 
+
+-
+ 
