@@ -34,4 +34,6 @@ Three stages of a git project
 
 - git status - to get the status of the current branch and commit 
 
--
+- git diff --staged - to get the difference  - learn this one more in detail 
+
+- git commit -a -m "Message" - skip the add command 
