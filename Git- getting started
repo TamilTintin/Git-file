@@ -37,3 +37,34 @@ Three stages of a git project
 - git diff --staged - to get the difference  - learn this one more in detail 
 
 - git commit -a -m "Message" - skip the add command 
+
+- git log - history of commit  , git log --oneline 
+
+- check the chris beams blog about the commit messages  - https://chris.beams.io/posts/git-commit/
+
+- git rm file name - to remove the file 
+
+- git rm --cached filename - this command will not delete the file , but it will not track the file 
+
+- git mv oldfilename newfilename - to rename a file 
+
+-  https://git-school.github.io/visualizing-git/
+
+- git checkout -n branchname 
+
+- branch - a light weight pointer 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
