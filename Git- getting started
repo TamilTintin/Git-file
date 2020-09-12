@@ -54,7 +54,9 @@ Three stages of a git project
 
 - branch - a light weight pointer 
 
- 
+- git stash ? 
+
+- git reset -  three options - soft, mixed , hard
 
 
 
